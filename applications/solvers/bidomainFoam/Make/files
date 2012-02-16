@@ -1,0 +1,6 @@
+fitzHughNagumo.C
+bidomainFoam.C
+
+LIB = $(FOAM_USER_LIBBIN)/libfitzHughNagumo
+EXE = $(FOAM_USER_APPBIN)/bidomainFoam
+
